@@ -9,5 +9,5 @@ Programa desarrollado en Python para calcular las horas trabajadas por un equipo
 - Clasificación de jornada laboral
 
 ## Autor
-Tu Nombre
 Omar Manjarres Prado
+
