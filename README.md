@@ -10,3 +10,4 @@ Programa desarrollado en Python para calcular las horas trabajadas por un equipo
 
 ## Autor
 Tu Nombre
+Omar Manjarres Prado
